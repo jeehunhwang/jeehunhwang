@@ -61,6 +61,7 @@ I enjoy transforming complex data into actionable business insights across marke
 ![Iterable](https://img.shields.io/badge/Iterable-4B0082?style=flat-square)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-FA0F00?style=flat-square&logo=adobeanalytics&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-1E90FF?style=flat-square)
 ![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-8A2BE2?style=flat-square)
 
