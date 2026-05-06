@@ -34,7 +34,6 @@ I enjoy transforming complex data into actionable business insights across marke
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square)
 ![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=flat-square)
 
 ---
@@ -44,7 +43,6 @@ I enjoy transforming complex data into actionable business insights across marke
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -66,18 +64,6 @@ I enjoy transforming complex data into actionable business insights across marke
 
 ---
 
-## Areas of Interest
-
-- Machine Learning & AI
-- Natural Language Processing (NLP)
-- Predictive Analytics
-- Data Engineering & ELT Pipelines
-- Business Intelligence & Visualization
-- Recommendation Systems
-- Marketing Analytics & Customer Insights
-
----
-
 ## Featured Projects
 
 ---
@@ -94,7 +80,7 @@ End-to-end machine learning and NLP project analyzing Sephora skincare and beaut
 
 Interactive NBA analytics dashboard built with Streamlit and BigQuery for exploring player statistics, advanced metrics, team performance, and historical trends. Includes dynamic visualizations, filtering tools, leaderboard tracking, and advanced NBA metrics for basketball analytics and sports data exploration.
 
-`Python` `Streamlit` `BigQuery` `SQL` `Sports Analytics` `Data Visualization` `Pandas`
+`Python` `Streamlit` `BigQuery` `SQL` `ELT Pipeline` `Data Engineering` `Sports Analytics` `Data Visualization`
 
 ---
 
@@ -113,6 +99,24 @@ NLP-based product categorization system for e-commerce product descriptions usin
 `Python` `NLP` `TF-IDF` `KMeans` `Text Classification` `scikit-learn` `Retail Analytics`
 
 ---
+
+### 🔹 [Retail Demand Forecasting](https://github.com/jeehunhwang/retail-demand-forecasting)
+
+Time series forecasting project focused on predicting retail product demand using historical sales data and statistical forecasting methods. Implemented ARIMA/SARIMA modeling, trend analysis, seasonality detection, and forecasting evaluation techniques to support inventory planning and business decision-making.
+
+`R` `Time Series Forecasting` `ARIMA` `SARIMA` `Forecasting` `Retail Analytics` `Statistical Modeling`
+
+---
+
+## Areas of Interest
+
+- Machine Learning & AI
+- Natural Language Processing (NLP)
+- Predictive Analytics
+- Data Engineering & ELT Pipelines
+- Business Intelligence & Visualization
+- Recommendation Systems
+- Marketing Analytics & Customer Insights
 
 ### 🔹 [Retail Demand Forecasting](https://github.com/jeehunhwang/retail-demand-forecasting)
 
