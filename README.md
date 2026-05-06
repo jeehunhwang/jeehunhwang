@@ -1,16 +1,12 @@
 # Hey, you can call me Jimmy 👋
 
-**Applied Data Science M.S. Candidate** at the University of San Diego ('26)
-
-📍 Los Angeles, CA | 📧 jeehunhwang@sandiego.edu | 💼 [LinkedIn](https://www.linkedin.com/in/jee-hun-hwang-564958162/)  
-
----
-
-## About Me
+**Applied Data Science M.S. Candidate · **University of San Diego '26**
 
 I'm a graduate student in Applied Data Science passionate about machine learning, predictive analytics, NLP, and data engineering. I have experience building end-to-end data science projects using Python, SQL, AWS, BigQuery, and cloud-based ML workflows.
 
 I enjoy transforming complex data into actionable business insights across marketing, retail, customer analytics, technology, and other industries. My interests include predictive modeling, AI applications, recommendation systems, data pipelines, and business intelligence solutions.
+
+📍 Los Angeles, CA | 📧 jeehunhwang@sandiego.edu | 💼 [LinkedIn](https://www.linkedin.com/in/jee-hun-hwang-564958162/)  
 
 ---
 
