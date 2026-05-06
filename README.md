@@ -118,9 +118,5 @@ Time series forecasting project focused on predicting retail product demand usin
 - Business Intelligence & Visualization
 - Recommendation Systems
 - Marketing Analytics & Customer Insights
-
-### 🔹 [Retail Demand Forecasting](https://github.com/jeehunhwang/retail-demand-forecasting)
-
-Time series forecasting project focused on predicting retail product demand using historical sales data and statistical forecasting methods. Implemented ARIMA/SARIMA modeling, trend analysis, seasonality detection, and forecasting evaluation techniques to support inventory planning and business decision-making.
-
-`Python` `Time Series Forecasting` `ARIMA` `SARIMA` `statsmodels` `Retail Analytics` `Forecasting`
+- Video games
+- Sports
