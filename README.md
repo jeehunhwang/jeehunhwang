@@ -77,15 +77,44 @@ I enjoy transforming complex data into actionable business insights across marke
 
 ---
 
-## Current Projects
-
-📌 Sephora Product Success Prediction  
-📌 Customer Churn Prediction  
-📌 Labor Market ELT Pipeline  
-📌 NBA Analytics Dashboard  
+## Featured Projects
 
 ---
 
-## Let's Connect
+### 🔹 [Sephora Product Success Prediction](https://github.com/xuany823/ads508-FinalProject-Team1)
 
-Feel free to connect with me on LinkedIn or reach out regarding collaboration, internships, or full-time data science opportunities for 2026.
+End-to-end machine learning and NLP project analyzing Sephora skincare and beauty products using structured product data and customer reviews. Built predictive models to identify drivers of product success, customer sentiment, and product ratings using TF-IDF, XGBoost, Logistic Regression, and cloud-based ML workflows on AWS.
+
+`Python` `XGBoost` `NLP` `scikit-learn` `AWS` `TF-IDF` `Sentiment Analysis` `Predictive Analytics`
+
+---
+
+### 🔹 [NBA Analytics Dashboard](https://nba-jhwang.streamlit.app/) | [GitHub Repo](https://github.com/jeehunhwang/nba-app)
+
+Interactive NBA analytics dashboard built with Streamlit and BigQuery for exploring player statistics, advanced metrics, team performance, and historical trends. Includes dynamic visualizations, filtering tools, leaderboard tracking, and advanced NBA metrics for basketball analytics and sports data exploration.
+
+`Python` `Streamlit` `BigQuery` `SQL` `Sports Analytics` `Data Visualization` `Pandas`
+
+---
+
+### 🔹 [Diabetes Prediction](https://github.com/jeehunhwang/diabetes-prediction)
+
+Machine learning classification project focused on predicting diabetes risk using healthcare and patient diagnostic data. Implemented data preprocessing, exploratory analysis, feature engineering, and classification models to improve predictive accuracy and identify key health indicators associated with diabetes risk.
+
+`Python` `Machine Learning` `Classification` `Healthcare Analytics` `scikit-learn` `Pandas` `Feature Engineering`
+
+---
+
+### 🔹 [Product Categorization](https://github.com/jeehunhwang/product-categorization)
+
+NLP-based product categorization system for e-commerce product descriptions using machine learning and clustering techniques. Applied TF-IDF, dimensionality reduction, KMeans clustering, and classification methods to automatically organize products into meaningful retail categories.
+
+`Python` `NLP` `TF-IDF` `KMeans` `Text Classification` `scikit-learn` `Retail Analytics`
+
+---
+
+### 🔹 [Retail Demand Forecasting](https://github.com/jeehunhwang/retail-demand-forecasting)
+
+Time series forecasting project focused on predicting retail product demand using historical sales data and statistical forecasting methods. Implemented ARIMA/SARIMA modeling, trend analysis, seasonality detection, and forecasting evaluation techniques to support inventory planning and business decision-making.
+
+`Python` `Time Series Forecasting` `ARIMA` `SARIMA` `statsmodels` `Retail Analytics` `Forecasting`
