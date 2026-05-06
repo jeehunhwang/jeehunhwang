@@ -77,7 +77,7 @@ End-to-end machine learning and NLP project analyzing Sephora skincare and beaut
 
 ---
 
-### 🔹 [NBA Analytics Dashboard](https://nba-jhwang.streamlit.app/) | [GitHub Repo](https://github.com/jeehunhwang/nba-app)
+### 🔹 [NBA Analytics Dashboard](https://github.com/jeehunhwang/nba-app) | [Demo](https://nba-jhwang.streamlit.app/)
 
 Interactive NBA analytics dashboard built with Streamlit and BigQuery for exploring player statistics, advanced metrics, team performance, and historical trends. Includes dynamic visualizations, filtering tools, leaderboard tracking, and advanced NBA metrics for basketball analytics and sports data exploration.
 
