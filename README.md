@@ -36,7 +36,6 @@ I enjoy transforming complex data into actionable business insights across marke
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square)
 ![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
 
 ---
 
