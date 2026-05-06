@@ -6,7 +6,7 @@ I'm a graduate student in Applied Data Science passionate about machine learning
 
 I enjoy transforming complex data into actionable business insights across marketing, retail, customer analytics, technology, and other industries. My interests include predictive modeling, AI applications, recommendation systems, data pipelines, and business intelligence solutions.
 
-📍 Los Angeles, CA | 📧 jeehunhwang@sandiego.edu | 💼 [LinkedIn](https://www.linkedin.com/in/jee-hun-hwang-564958162/)  
+📍 Los Angeles, CA | 📧 jimmyhwang4@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/jee-hun-hwang-564958162/)  
 
 ---
 
