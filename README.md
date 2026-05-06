@@ -1,4 +1,4 @@
-# I also go by Jimmy 👋
+# Hey, you can call me Jimmy 👋
 
 **Applied Data Science M.S. Candidate** at the University of San Diego ('26)  
 📍 Los Angeles, CA | 📧 jeehunhwang@sandiego.edu | 💼 [LinkedIn](https://www.linkedin.com/in/jee-hun-hwang-564958162/)  
