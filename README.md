@@ -118,5 +118,5 @@ Time series forecasting project focused on predicting retail product demand usin
 - Business Intelligence & Visualization
 - Recommendation Systems
 - Marketing Analytics & Customer Insights
-- Video games
+- Video Games
 - Sports
