@@ -69,8 +69,6 @@ I enjoy transforming complex data into actionable business insights across marke
 
 ## Featured Projects
 
----
-
 ### 🔹 [Sephora Product Success Prediction](https://github.com/xuany823/ads508-FinalProject-Team1)
 
 End-to-end machine learning and NLP project analyzing Sephora skincare and beauty products using structured product data and customer reviews. Built predictive models to identify drivers of product success, customer sentiment, and product ratings using TF-IDF, XGBoost, Logistic Regression, and cloud-based ML workflows on AWS.
