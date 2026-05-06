@@ -1,10 +1,7 @@
-# Hi, I'm Jimmy Hwang 👋
+# I also go by Jimmy 👋
 
-🎓 **Applied Data Science M.S. Candidate** at the University of San Diego ('26)  
-📍 Los Angeles, CA  
-📧 jeehunhwang@sandiego.edu  
-💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
-🚀 Seeking Data Science & Machine Learning opportunities for 2026  
+**Applied Data Science M.S. Candidate** at the University of San Diego ('26)  
+📍 Los Angeles, CA | 📧 jeehunhwang@sandiego.edu | 💼 [LinkedIn](https://www.linkedin.com/in/jee-hun-hwang-564958162/)  
 
 ---
 
